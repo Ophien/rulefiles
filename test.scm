@@ -1,1 +1,1 @@
-(ghost-parse "u: (hello) hello there! ^keep"
+(ghost-parse "u: (hello) hello there! ^keep")
