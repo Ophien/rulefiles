@@ -1,1 +1,2 @@
-#goal: (novelty=0.25) u: (apple) I want an apple ^keep
+goal: (novelty=1.0) 
+u: (apple) I want an apple ^keep
