@@ -1,1 +1,2 @@
-u: (hi) hi ^keep
+#goal: (novelty=0.24)
+          u: (hi) hi ^keep
