@@ -1,2 +1,2 @@
-goal: please_user=1
-?: ((who are you)) I am a GHOST ^keep
+#goal: (novelty=0.24)
+       u: (who) WHO THE FUCK ARE ME?! ^keep
