@@ -1,2 +1,2 @@
 #goal: (novelty=0.24)
-       u: (who) WHO THE FUCK ARE ME?! ^keep
+       ?: ((who are you)) I am your GHOST!
