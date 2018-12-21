@@ -1,4 +1,4 @@
 (define-public (update_urge)
-               (gloria)
-               (glauter 2 bla bla bla PUM)
+               (psi-increase-urge response_user 0.1)
+               (psi-decrease-urge help_user 0.1)
                (List (Word "")))
