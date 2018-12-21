@@ -1,5 +1,3 @@
-(define-public (update_urge)
-               (psi-decrease-urge help_user 0.1)
-               (psi-increase-urge response_user 0.1)
-               (List (Word ""))
-)
+(define-public (smile)
+               (display "I am smiling")
+               (List (Word "")))
