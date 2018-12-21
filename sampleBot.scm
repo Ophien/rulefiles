@@ -2,5 +2,5 @@
 #goal: (novelty=0.8) u: (you have a cake) yes do you want some? 
                         a: (yes) here you go 
                         a: (no) your loss
-#goal: (help_user=1) u: (will you help me) Sure ! ^(psi-decrease-urge help_user 0.1) ^(psi-increase-urge response_user 0.1) ^keep
+#goal: (help_user=1) u: (will you help me) Sure ! ^psi-decrease-urge (help_user 0.1) ^psi-increase-urge (response_user 0.1) ^keep
 #goal: (response_user=0.0) u: (will you help me) Nop, fuck off ! ^keep
